@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GWE9Ea6zxJnW+vneT/PBUZyQXwHqPLJDPqox3Rmk06j0Qa5O30Lbsv0cYy3BdB3vuF1ERjzHsuFoezEXn4VZgQ==",
+  "success": true,
+  "projectFilePath": "/Users/nathanbell/Documents/Graduate Diploma Work/Code/RobotDodge/RobotDodge.csproj",
+  "expectedPackageFiles": [
+    "/Users/nathanbell/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/nathanbell/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/nathanbell/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.27/microsoft.netcore.app.host.osx-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

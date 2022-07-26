@@ -1,0 +1,10 @@
+/Users/nathanbell/Documents/Code/RobotDodge/bin/Debug/netcoreapp2.0/RobotDodge.deps.json
+/Users/nathanbell/Documents/Code/RobotDodge/bin/Debug/netcoreapp2.0/RobotDodge.runtimeconfig.json
+/Users/nathanbell/Documents/Code/RobotDodge/bin/Debug/netcoreapp2.0/RobotDodge.runtimeconfig.dev.json
+/Users/nathanbell/Documents/Code/RobotDodge/bin/Debug/netcoreapp2.0/RobotDodge.dll
+/Users/nathanbell/Documents/Code/RobotDodge/bin/Debug/netcoreapp2.0/RobotDodge.pdb
+/Users/nathanbell/Documents/Code/RobotDodge/obj/Debug/netcoreapp2.0/RobotDodge.csprojAssemblyReference.cache
+/Users/nathanbell/Documents/Code/RobotDodge/obj/Debug/netcoreapp2.0/RobotDodge.AssemblyInfoInputs.cache
+/Users/nathanbell/Documents/Code/RobotDodge/obj/Debug/netcoreapp2.0/RobotDodge.AssemblyInfo.cs
+/Users/nathanbell/Documents/Code/RobotDodge/obj/Debug/netcoreapp2.0/RobotDodge.dll
+/Users/nathanbell/Documents/Code/RobotDodge/obj/Debug/netcoreapp2.0/RobotDodge.pdb
